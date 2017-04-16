@@ -11,6 +11,28 @@ Berlin based freelance Instructional Designer. I create engaging interactive cou
  
 
 ### Portfolio
-
-![Sample1](/images/meeting_09.jpg)
+<table>
+<tr>
+<td>
+<img src="images/meeting_09.jpg">
+</td>
+<td>
+<img src="images/meeting_09.jpg">
+</td>
+<td>
+<img src="images/meeting_09.jpg">
+</td>
+</tr>
+<tr>
+<td>
+<img src="images/meeting_09.jpg">
+</td>
+<td>
+<img src="images/meeting_09.jpg">
+</td>
+<td>
+<img src="images/meeting_09.jpg">
+</td>
+</tr>
+</table>
 
